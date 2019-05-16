@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ABBCharts"
-  spec.version      = "1.4.0"
+  spec.version      = "1.5.0"
   spec.summary      = "A custom repository Based on Charts(https://github.com/danielgindi/Charts)"
 
   # This description is used to generate tags and improve search results.
