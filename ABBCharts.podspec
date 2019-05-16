@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-Based on Charts,add some custom function.
+Based on Charts(https://github.com/danielgindi/Charts),add some custom function.
                    DESC
 
   spec.homepage     = "https://github.com/AndroidBirdBoom/ABBCharts"
